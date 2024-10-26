@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: girib1608/bankapp:v2
+        image: girib1608/bankapp:v3
         ports:
         - containerPort: 8080
         env:
